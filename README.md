@@ -8,3 +8,5 @@ What are the most popular times of the day for bike usage?
 Seen in figure 2, the bikes are most commonly used during commute times around 8am and 5-6pm on weekdays, and during the afternoon on weekends. Dividing this data by gender shows no large difference.
 
 Seen in figure 3, subscribers use the bikes more frequently than customers, and the majority of subscribers use the bikes during the week. Customers use the bikes more frequently on weekends.
+
+Where are the bikes used the most?
