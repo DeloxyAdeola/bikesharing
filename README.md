@@ -4,6 +4,7 @@ The main  purpose of this project basically  is to  analyze and visualize data u
 https://public.tableau.com/app/profile/adeola7446/viz/NYCCitiBikeAnalysis2/Story1?publish=yes
 
 THE LENGHT OF TIME USED BY CUSTOMER.
+
 [alt text](https://github.com/DeloxyAdeola/bikesharing/blob/main/fig%201.png) 
 
 As Shown in fig 1, the majority of the bike trips duration are between 0 -10mins.In generall all bike trip durations are less than 60 minutes. When categorized by gender dimenasion, its obvious that majority of the users are male, however, all genders have similar trip duration (used time). 
@@ -15,10 +16,12 @@ THE MOST OFTEN TIME OF THE DAY FOR BIKE USAGE
 In the above figure 2, the bikes are most commonly used during commute times around 7am -9am, though mostly at 8am and 5-6pm on weekdays, and during the afternoon on weekends. moreso, the male uses the most stoptime at 8am on weekdays and between 1pm to 5pm on weekends. The male is more significant when you compare these times by gender. 
 
 [alt text](https://github.com/DeloxyAdeola/bikesharing/blob/main/fig%203.png) 
+
 In figure 3, Bikes are being used by subscribers  more frequently than customers, and the majority of subscribers use the bikes during the week. Customers use the bikes more frequently on weekends.
 
 
 Total NUMBER OF RIDES IN AUGUST AND THE PROPORTION OF DIFFERENT BETWEEN SUBSCRIBER AND CUSTOMER 
+
 [alt text](https://github.com/DeloxyAdeola/bikesharing/blob/main/FIG%204.png) 
 
 
