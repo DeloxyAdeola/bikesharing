@@ -18,17 +18,11 @@ In the above figure 2, the bikes are most commonly used during commute times aro
 In figure 3, Bikes are being used by subscribers  more frequently than customers, and the majority of subscribers use the bikes during the week. Customers use the bikes more frequently on weekends.
 
 
-Total NUMBER OF RIDES IN AUGUST
+Total NUMBER OF RIDES IN AUGUST AND THE PROPORTION OF DIFFERENT BETWEEN SUBSCRIBER AND CUSTOMER 
+[alt text](https://github.com/DeloxyAdeola/bikesharing/blob/main/FIG%204.png) 
 
 
-
-
-
-
-and proportion of different bewteen subscribers and customers 
-
-figure 4, the most popular starting and ending locations are almost identical, and are in the same area of Manhattan. The top 10 starting locations are all in Manhattan, and the top 10 ending locations are all in Manhattan or Brooklyn.
-
+figure 4, The total number of rides in the month of August is 2,344,224 and my visualization shows that subscribers are of a higher proportion with a total of 1900,359 and customers 443,865.  
 
 Summary
 in essence, bike-sharing usage in New York City is very high and lucrative, easy to analyzes and predict.The most popular times of the day for bike usage are usually during the general busy times for commuters, and the most popular locations should also be predictable and unchanging. This makes it easy to predict where to place more bikes. Also this analyses will help us to decided what previledges or bonuses that can be given to subscribers and customers.  However, there are some limitations to this analysis. sicne the data used is from August 2019. This could affect our conclusion if the usage pattern has changed from the previous used for our analysis. and it is possible that the usage patterns have changed since then. For an accurate analysis and predection, a recent dataset will be of great advantage In order to get a more accurate picture of the usage patterns. Also we can do analyses for other neigbouring cities which will help us analyzes possible future challenges especially when their population is not as much as NYC. Additional visualizations that would be helpful to investors would be the usage of specific bikes and the income and expenditure generated from each bike before they are replaced. Also to analyse the most preferred bike buy users.This would help our inverstors to invest wisely. 
