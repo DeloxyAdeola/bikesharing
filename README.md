@@ -1,6 +1,8 @@
 # bikesharing
 The main  purpose of this project basically  is to  analyze and visualize data using Tableau from CitiBike company in New York City which will be presented to a group of investors to c convince and impress them on how lucrative a bike sharing business will be if invested into in a new city. We downloaded a data for the month of August 2019  from the NYC Citibike website. In this visualzation, I was able to compare relationship between different situations which brougth about 5 ploted visualization.
 
+https://public.tableau.com/app/profile/adeola7446/viz/NYCCitiBikeAnalysis2/Story1?publish=yes
+
 THE LENGHT OF TIME USED BY CUSTOMER.
 [alt text](https://github.com/DeloxyAdeola/bikesharing/blob/main/fig%201.png) 
 
@@ -16,7 +18,14 @@ In the above figure 2, the bikes are most commonly used during commute times aro
 In figure 3, Bikes are being used by subscribers  more frequently than customers, and the majority of subscribers use the bikes during the week. Customers use the bikes more frequently on weekends.
 
 
-WHERE BIKES ARE USED THE MOST 
+Total NUMBER OF RIDES IN AUGUST
+
+
+
+
+
+
+and proportion of different bewteen subscribers and customers 
 
 figure 4, the most popular starting and ending locations are almost identical, and are in the same area of Manhattan. The top 10 starting locations are all in Manhattan, and the top 10 ending locations are all in Manhattan or Brooklyn.
 
