@@ -4,3 +4,5 @@ The purpose of this project is to analyze and visualize data from CitiBike in Ne
 Seen in figure 1, the majority of trips are less than 10 minutes and the vast majority of trips are less than 1 hour. When divided by gender, the results show that the majority of users are male, and usage time between genders is similar.
 
 What are the most popular times of the day for bike usage?
+
+Seen in figure 2, the bikes are most commonly used during commute times around 8am and 5-6pm on weekdays, and during the afternoon on weekends. Dividing this data by gender shows no large difference.
