@@ -1,5 +1,5 @@
 # bikesharing
-The main  purpose of this project basically  is to  analyze and visualize data using Tableau from CitiBike company in New York City which will be presented to a group of investors to c convince and impress them on how lucrative a bike sharing business will be if invested into in a new city. We downloaded a data for the month of August 2019  from the NYC Citibike wedsite.
+The main  purpose of this project basically  is to  analyze and visualize data using Tableau from CitiBike company in New York City which will be presented to a group of investors to c convince and impress them on how lucrative a bike sharing business will be if invested into in a new city. We downloaded a data for the month of August 2019  from the NYC Citibike website.
 
 Seen in figure 1, the majority of trips are less than 10 minutes and the vast majority of trips are less than 1 hour. When divided by gender, the results show that the majority of users are male, and usage time between genders is similar.
 
