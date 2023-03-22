@@ -3,7 +3,7 @@ The main  purpose of this project basically  is to  analyze and visualize data u
 
 https://public.tableau.com/app/profile/adeola7446/viz/NYCCitiBikeAnalysis2/Story1?publish=yes
 
-THE LENGHT OF TIME USED BY CUSTOMER.
+##THE LENGHT OF TIME USED BY CUSTOMER.
 
 [alt text](https://github.com/DeloxyAdeola/bikesharing/blob/main/fig%201.png) 
 
